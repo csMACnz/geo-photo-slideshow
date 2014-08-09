@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoPhotoSlideshow.Console", "GeoPhotoSlideshow.Console\GeoPhotoSlideshow.Console.csproj", "{972388C0-488C-4803-907E-8499DCF448B4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoPhotoSlideshow.Core", "GeoPhotoSlideshow.Core\GeoPhotoSlideshow.Core.csproj", "{65E02291-7BFA-4B4D-BEE6-7B10D004EF78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoPhotoSlideshow.UI", "GeoPhotoSlideshow.UI\GeoPhotoSlideshow.UI.csproj", "{35FFFDCB-878F-4E4A-9F51-130BF8ABF712}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{65E02291-7BFA-4B4D-BEE6-7B10D004EF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65E02291-7BFA-4B4D-BEE6-7B10D004EF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65E02291-7BFA-4B4D-BEE6-7B10D004EF78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FFFDCB-878F-4E4A-9F51-130BF8ABF712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FFFDCB-878F-4E4A-9F51-130BF8ABF712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FFFDCB-878F-4E4A-9F51-130BF8ABF712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FFFDCB-878F-4E4A-9F51-130BF8ABF712}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
